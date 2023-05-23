@@ -1,6 +1,5 @@
 <script setup>
 import PagesLayout from '@/Layouts/AuthenticatedLayout.vue';
-import AppHead from '../../Shared/AppHead.vue';
 import {Head} from '@inertiajs/vue3';
 
 </script>
