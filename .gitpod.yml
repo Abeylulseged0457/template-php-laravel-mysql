@@ -52,7 +52,6 @@ vscode:
       - "csstools.postcss"
       - "esbenp.prettier-vscode"
       - "bradlc.vscode-tailwindcss"
-      - "Vue.vscode-typescript-vue-plugin"
       - "vscode-icons-team.vscode-icons"
       - "hollowtree.vue-snippets"
       - "Vue.volar"
